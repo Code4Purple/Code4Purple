@@ -1,0 +1,29 @@
+# Examing Security Control Types
+
+1. Preventative
+	- To Block or avoid compromised information systems (bad actors)
+	- Examples: Encrption, App Filtering, Access Control Systems
+
+2. Deterrent
+	- Try to get users to think twice about doing something
+	- Examples: Signs, CCTV/Cameras, Security Guards
+
+3. Detective
+	- monitoring & detecting anomalies
+	- Examples: CCTV/Cameras, IPS/IRP, SIEM
+
+4. Corrective
+	- To minimize the impact of a Security Incident.
+	- Examples: Backup/restore, IRP, DRP
+
+5. Compensating
+	- Justified work around or an compromise to a policy
+	- Examples: Network Segmentation, Virtualization.
+
+6. Recovery
+	- Getting back to normal operaions
+	- Examples: Backups, DRP, BCP, restore
+
+7. Directive
+	- Mandatory handleing of company data within a network.
+	- Examples: AUP, Password Policy, Data Classification Policy

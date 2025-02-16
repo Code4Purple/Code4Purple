@@ -1,0 +1,24 @@
+# Examinging Security Categories
+
+? What do we mean by examining security categories
+- Measures or safeguards that we apply to protect our data *(security control)* 
+-- Examples: firewalls, patch management
+
+Categories : Technical, Administrative, and Physical
+	
+---------------------------------------------------------------------------------------------------------
+		Examples
+---------------------------------------------------------------------------------------------------------
+Technical : Encryption, Antivirus, Firewalls and IDS/IPS
+Administrative: Policy, Procedures, IRP, BCP, and data classification
+Physical: Fences, Cameras, Gates, and Security Guards
+
+---------------------------------------------------------------------------------------------------------
+		Definitions
+---------------------------------------------------------------------------------------------------------
+ICP (Incident Response Plan) - is a set of written instructions for detecting,
+responding to and  limiting the effects of an information security event.
+
+BCP (Business Continuity Plan) - are preventions and recovery systems for potential threat, 
+such as natural disasters or cyber attacks. BCP is a disigned plan to protect personal
+and assets as quickly as possible when disaster strikes.
