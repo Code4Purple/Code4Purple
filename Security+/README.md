@@ -10,4 +10,6 @@ form my notebook to the online backup here for the certfication.
 1. Examining Security Control Categories
 2. Examining Security Control Types 
 3. Examining the Principles of Security
-
+4. Examining Authentication Factors
+5. Examining Authorization and Access Control Models
+6. Examining Authentication Authorization and Accounting (AAA)

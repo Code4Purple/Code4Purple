@@ -1,0 +1,80 @@
+# Examining Authorization and Access Control Models
+
+--------------------------------------
+	Definition
+--------------------------------------
+
+Authorization 
+	- is the 2nd step in giving access to resources within our network.
+	- Step 1: Authentication
+	- For Example, step 2 can have different resources givin to users depending on the
+	  nature of roles in company's permissions
+
+------------------------------------------
+	Access Control Models
+------------------------------------------
+
+--------------------------------
+1. Discretionary Access Control 
+--------------------------------	
+	
+	- For Example: Owner creates a file then assgins permisson to other
+	  users like who can edit read or deny permission all together.
+	
+	- The resource used in the list of users is (ACL) Access Control List
+
+-----------------------------
+2. Mandatory Access Control
+-----------------------------
+
+	- You might have system that has security level to it ranging 1 to 3.
+	
+	- You might have 3 Files that those have permission to see like public,
+	  secret and top secret. 
+	
+	- Level 1 - this level can only access public knowledge
+	  Level 2 - this level can access to the level one knowledge and now secret files.
+	  Level 3 - this level can access the lower two levels and now top secret files.
+			
+			 ( This Operation is VERY COMPLeX ) 
+
+-----------------------------
+3. Role-Based Access Control	
+-----------------------------
+	
+	- Policy of a company might have differnet defined roles and permissions
+	  for those roles.
+
+	- Typically you have a pool of users assigned to roles like IT Department.
+
+	- Then based on your roles and the policy given within the company.
+	  For Example: Proccess data only the data within that role assigned to the user. 
+
+
+------------------------------
+4. Rule Based Access Control
+------------------------------
+
+	Administor Defines Rules
+		
+		|
+		|
+	       \ /
+		
+	Configures Rules and Actions
+
+		|
+		|
+	       \ /
+	
+	Process Rules
+		
+		|
+		|
+	       \ /
+	
+	Allows or Denys Access
+
+	- For Example: Firewalls
+
+Extra: Attribute - Based Access Control

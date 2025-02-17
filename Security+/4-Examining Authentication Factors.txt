@@ -1,0 +1,39 @@
+# Examining Authentication Factors
+
+Authentication 
+	- is a way to validate an Identity
+
+Authentication Factor
+	- piece of evidence of Identity
+
+---------------------------------------------------
+	Type of Factors (3 Main - Most Common)
+---------------------------------------------------
+
+1. Something you Know 
+	- username / password
+	- PIN
+	- Secrets -> Security Questions
+
+2. Something you Have
+	- Smart Card
+	- Key Fob
+	- Authenticator App
+	- Compliant Device
+
+3. Something you Are
+	- Biometrics
+	- DNA
+
+-------------------------------
+	2 Others
+-------------------------------
+
+4. Something you Do 
+	- pattern recognition
+	- puzzles
+	- key strokes
+
+5. Somewhere you Are
+	- Geo-Location
+	- Trusted Network
