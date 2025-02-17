@@ -1,0 +1,62 @@
+# Examining the Principles of Security
+
+			------------------------------
+				Iron Triangle
+			------------------------------
+				    
+				     /\
+				    /  \
+		Confidentiality	   /	\	Availability
+				  /	 \
+				 /	  \
+				 ----------
+				  
+				  Integrity
+
+			-----------------------------
+			     Inside the Triangle
+			------------------------------
+			        - non-repudiation
+			        - Authenticity
+			        - Accountabilty  
+
+
+-------------------------------
+	In Depth Look
+-------------------------------
+
+Confidentiality 
+	- Keeping bad people away from good data.
+
+Integrity
+	- Keeping the data in the same state as we expect.
+
+Availability
+	- access your data when you need your data
+
+non-repudiation
+	- ensures a set of actions that have happened are recorded
+	- it makes it where people can't deny the actions that they took
+
+Authenticity
+	- we can confirm a legitimacy of a communication
+
+-------------------------------------------
+	Examples of the Big There
+-------------------------------------------
+
+Confidentiality
+	- Encryption
+	- Access Control
+	- Secure Communication Channels
+
+Integrity
+	- Hashing
+	- Digital Signatures
+	- Integrity Checks
+
+Availability
+	- Redundancy
+	- Load Balancing
+	- Backups
+

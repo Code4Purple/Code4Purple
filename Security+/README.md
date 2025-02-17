@@ -9,3 +9,5 @@ form my notebook to the online backup here for the certfication.
 
 1. Examining Security Control Categories
 2. Examining Security Control Types 
+3. Examining the Principles of Security
+
