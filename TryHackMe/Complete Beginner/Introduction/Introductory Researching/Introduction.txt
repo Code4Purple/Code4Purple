@@ -2,3 +2,11 @@
 # Introduction
 
 # Video Link : https://youtu.be/TGsIxfvEDaQ
+
+Without a doubt, the ability to research effectively is the most important quality for a hacker to have. 
+By its very nature, hacking requires a vast knowledge base — because how are you supposed to break into something 
+if you don't know how it works? The thing is: no one knows everything. Everyone (professional or amateur, 
+experienced or totally new to the subject) will encounter problems which they don't automatically know how 
+to solve. This is where research comes in, as, in the real world, you can't ever expect to simply be 
+handed the answers to your questions.
+
